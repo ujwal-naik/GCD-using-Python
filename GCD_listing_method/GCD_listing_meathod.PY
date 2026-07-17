@@ -20,4 +20,4 @@ n1 = int(input("Enter the frist number: "))
 n2 = int(input("Enter the second number: "))
 
 result = gcd(n1, n2)
-print (result)
+print ("GCD is : ",result)
