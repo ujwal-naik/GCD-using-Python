@@ -16,7 +16,7 @@ def gcd(m,n):
 
     return common_factor[-1]
 
-n1 = int(input("Enter the frist number: "))
+n1 = int(input("Enter the first number: "))
 n2 = int(input("Enter the second number: "))
 
 result = gcd(n1, n2)
